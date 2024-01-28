@@ -1,0 +1,25 @@
+Bristol City,Virginia,VA,0.297
+Buena Vista City,Virginia,VA,0.299
+Charlottesville City,Virginia,VA,0.859
+Colonial Heights City,Virginia,VA,0.326
+Covington City,Virginia,VA,0.372
+Danville City,Virginia,VA,0.606
+Emporia City,Virginia,VA,0.678
+Fairfax City,Virginia,VA,0.686
+Falls Church City,Virginia,VA,0.704
+Franklin City,Virginia,VA,0.624
+Galax City,Virginia,VA,0.295
+Harrisonburg City,Virginia,VA,0.649
+Hopewell City,Virginia,VA,0.567
+Lexington City,Virginia,VA,0.652
+Manassas Park City,Virginia,VA,0.658
+Martinsville City,Virginia,VA,0.627
+Norton City,Virginia,VA,0.291
+Portsmouth City,Virginia,VA,0.697
+Radford City,Virginia,VA,0.534
+Roanoke City,Virginia,VA,0.620
+Salem City,Virginia,VA,0.394
+Staunton City,Virginia,VA,0.540
+Waynesboro City,Virginia,VA,0.465
+Williamsburg City,Virginia,VA,0.700
+Winchester City,Virginia,VA,0.549

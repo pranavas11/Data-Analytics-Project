@@ -1,0 +1,51 @@
+AL,Southeast
+AK,Pacific
+AZ,Southwest
+AR,Southeast
+CA,Pacific
+CO,Mountain
+CT,New England
+DE,Mid-Atlantic
+DC,Mid-Atlantic
+FL,Southeast
+GA,Southeast
+HI,Pacific
+ID,Mountain
+IL,Midwest
+IN,Midwest
+IA,Midwest
+KS,Midwest
+KY,Southeast
+LA,Southeast
+ME,New England
+MD,Mid-Atlantic
+MA,New England
+MI,Midwest
+MN,Midwest
+MS,Southeast
+MO,Midwest
+MT,Mountain
+NE,Midwest
+NV,Pacific
+NH,New England
+NJ,Mid-Atlantic
+NM,Southwest
+NY,Mid-Atlantic
+NC,Southeast
+ND,Midwest
+OH,Midwest
+OK,Southwest
+OR,Pacific
+PA,Mid-Atlantic
+RI,New England
+SC,Southeast
+SD,Midwest
+TN,Southeast
+TX,Southwest
+UT,Mountain
+VT,New England
+VA,Southeast
+WA,Pacific
+WV,Southeast
+WI,Midwest
+WY,Mountain

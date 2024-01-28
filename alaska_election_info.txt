@@ -1,0 +1,27 @@
+Aleutians East Borough,Alaska,AK,0.329
+Aleutians West Census Area,Alaska,AK,0.540
+Anchorage Municipality,Alaska,AK,0.489
+Bethel Census Area,Alaska,AK,0.604
+Bristol Bay Borough,Alaska,AK,0.381
+Chugach Census Area,Alaska,AK,0.396
+Copper River Census Area,Alaska,AK,0.284
+Denali Borough,Alaska,AK,0.406
+Dillingham Census Area,Alaska,AK,0.516
+Fairbanks North Star Borough,Alaska,AK,0.398
+Haines Borough,Alaska,AK,0.597
+Hoonah-Angoon Census Area,Alaska,AK,0.715
+Juneau City and Borough,Alaska,AK,0.598
+Kenai Peninsula Borough,Alaska,AK,0.323
+Ketchikan Gateway Borough,Alaska,AK,0.364
+Kodiak Island Borough,Alaska,AK,0.391
+Kusilvak Census Area,Alaska,AK,0.620
+Lake and Peninsula Borough,Alaska,AK,0.553
+Matanuska-Susitna Borough,Alaska,AK,0.240
+Nome Census Area,Alaska,AK,0.581
+North Slope Borough,Alaska,AK,0.454
+Northwest Arctic Borough,Alaska,AK,0.541
+Prince of Wales-Hyder Census Area,Alaska,AK,0.529
+Sitka City and Borough,Alaska,AK,0.527
+Southeast Fairbanks Census Area,Alaska,AK,0.202
+Yakutat City and Borough,Alaska,AK,0.505
+Yukon-Koyukuk Census Area,Alaska,AK,0.613
